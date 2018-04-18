@@ -5,7 +5,9 @@ import static org.junit.Assert.assertEquals;
 import org.junit.jupiter.api.Test;
 
 class StoreTest {
-
+	/**
+	 * First Test
+	 */
 	@Test
 	void testStoreLearnResponseFunktion() {
 		Store storeTest = new Store();
