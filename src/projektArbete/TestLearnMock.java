@@ -23,3 +23,4 @@ public class TestLearnMock {
 		assertTrue(mock4.multiplication()==25);
 	}
 }
+//ikuer giokgubsrthgiebi
