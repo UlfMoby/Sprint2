@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 class StoreTest {
 	/**
-	 * First Test
+	 * First Test nununu
 	 */
 	@Test
 	void testStoreLearnResponseFunktion() {
