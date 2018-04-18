@@ -1,4 +1,8 @@
 package projektArbete;
+/**
+ * @author sarmad
+ *
+ */
 public class LearnMock {
 	private int nr1;
 	private int nr2;
