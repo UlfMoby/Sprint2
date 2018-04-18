@@ -1,6 +1,6 @@
 package projektArbete;
 /**
- * @author sarmad
+ * @author sarmad test
  *
  */
 public class LearnMock {
