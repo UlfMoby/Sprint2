@@ -13,7 +13,10 @@ Feature: Test mimicservice app
       | "2+2"               | "4"      |
       | "4+4"               | "8"      |
       | "5+5"               | "10"     |
-      
+      | "10+10"             | "20"     |
+
+  
+  
   Scenario: Learn a new response and then unlearn it
   
     Given Environment is up and running
