@@ -12,6 +12,7 @@ Feature: Test mimicservice app
       | "Does it work?"     | "Yes"    |
       | "2+2"               | "4"      |
       | "4+4"               | "8"      |
+      | "5+5"               | "10"     |
       
   Scenario: Learn a new response and then unlearn it
   
